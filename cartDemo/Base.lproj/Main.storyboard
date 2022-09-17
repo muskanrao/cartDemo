@@ -20,7 +20,7 @@
                                 <rect key="frame" x="130" y="519" width="172" height="54"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <state key="normal" title="Button"/>
-                                <buttonConfiguration key="configuration" style="tinted" title="Sign IN">
+                                <buttonConfiguration key="configuration" style="tinted" title="Register">
                                     <color key="baseForegroundColor" red="0.85490196939999996" green="0.28627452250000002" blue="0.23921570180000001" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
                                     <color key="baseBackgroundColor" red="1" green="0.14913141730000001" blue="0.0" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                 </buttonConfiguration>
@@ -32,7 +32,7 @@
                                 <rect key="frame" x="130" y="622" width="172" height="53"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <state key="normal" title="Button"/>
-                                <buttonConfiguration key="configuration" style="tinted" title="Log IN">
+                                <buttonConfiguration key="configuration" style="tinted" title="Log In">
                                     <color key="baseForegroundColor" red="0.85490196939999996" green="0.28627452250000002" blue="0.23921570180000001" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
                                     <color key="baseBackgroundColor" red="1" green="0.14913141730000001" blue="0.0" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                 </buttonConfiguration>
